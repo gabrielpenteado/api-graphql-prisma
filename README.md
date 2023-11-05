@@ -7,8 +7,8 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/gabrielpenteado/api-graphql-mongodb/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/gabrielpenteado/api-graphql-mongodb?style=flat-square&color=informational" alt="license"/>
+  <a href="https://github.com/gabrielpenteado/api-graphql-prisma/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/gabrielpenteado/api-graphql-prisma?style=flat-square&color=informational" alt="license"/>
   </a>
 
   <img src="https://img.shields.io/static/v1?label=npm&message=v9.5.1&color=informational&style=flat-square" alt="npm version">
